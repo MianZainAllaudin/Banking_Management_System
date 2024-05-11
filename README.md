@@ -88,5 +88,6 @@ Add more security features such as OTP for transactions.
 
 Improve error handling and logging mechanisms.
 
-Contributors
+Contributor:
+
 Zain Allaudin
